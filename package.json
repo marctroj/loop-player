@@ -10,8 +10,5 @@
   },
   "devDependencies": {
     "vite": "^5.0.8"
-  },
-  "dependencies": {
-    "contentful": "^10.6.16"
   }
 }
